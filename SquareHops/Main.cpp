@@ -2,8 +2,8 @@
 #include <raylib.h>
 
 int main() {
-	const int screenWidth = 900;
-	const int screenHeight = 600;
+	const int screenWidth = 1200;
+	const int screenHeight = 900;
 
 	InitWindow(screenWidth, screenHeight, "Square Hops");
 
